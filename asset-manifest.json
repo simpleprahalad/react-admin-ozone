@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simpleprahalad/react-admin-ozone/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/simpleprahalad/react-admin-ozone/static/js/main.c46a6cb2.chunk.js",
+    "main.js.map": "/simpleprahalad/react-admin-ozone/static/js/main.c46a6cb2.chunk.js.map",
+    "runtime-main.js": "/simpleprahalad/react-admin-ozone/static/js/runtime-main.2da9849a.js",
+    "runtime-main.js.map": "/simpleprahalad/react-admin-ozone/static/js/runtime-main.2da9849a.js.map",
+    "static/js/2.c3fb16a4.chunk.js": "/simpleprahalad/react-admin-ozone/static/js/2.c3fb16a4.chunk.js",
+    "static/js/2.c3fb16a4.chunk.js.map": "/simpleprahalad/react-admin-ozone/static/js/2.c3fb16a4.chunk.js.map",
+    "static/js/3.e0cf5438.chunk.js": "/simpleprahalad/react-admin-ozone/static/js/3.e0cf5438.chunk.js",
+    "static/js/3.e0cf5438.chunk.js.map": "/simpleprahalad/react-admin-ozone/static/js/3.e0cf5438.chunk.js.map",
+    "index.html": "/simpleprahalad/react-admin-ozone/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/simpleprahalad/react-admin-ozone/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c3fb16a4.chunk.js.LICENSE.txt": "/simpleprahalad/react-admin-ozone/static/js/2.c3fb16a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2da9849a.js",
+    "static/js/2.c3fb16a4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c46a6cb2.chunk.js"
+  ]
+}
